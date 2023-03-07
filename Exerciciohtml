@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Perfil de Nicholas Cavalcante</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Nicholas Cavalcante - Amante da Tecnologia</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
 </head>
 <body>
 	<header>
@@ -16,19 +18,10 @@
 	</header>
 	<main>
 		<h2>Sobre mim</h2>
-		<p>Meu nome é Nicholas Cavalcante e sou um amante da tecnologia. Atualmente estudo na Generation Brasil com o objetivo de me tornar um grande programador um dia.</p>
+		<p>Meu nome é Nicholas Cavalcante e sou um amante da tecnologia. Atualmente estudo na Generation Brasil e pretendo me tornar um grande programador um dia.</p>
 		<h2>Minhas habilidades</h2>
 		<ul>
 			<li>HTML5</li>
-			<li>CSS</li>
+			<li>CSS3</li>
 			<li>JavaScript</li>
-			<li>React</li>
-			<li>Python</li>
-			<li>Java</li>
-		</ul>
-	</main>
-	<footer>
-		<p>&copy; 2023 Nicholas Cavalcante</p>
-	</footer>
-</body>
-</html>
+			
